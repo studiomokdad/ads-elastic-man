@@ -1,0 +1,55 @@
+ {
+	"Playstore": {
+
+		"AdsController": {
+
+			"NetworkAds": "admob",
+
+			"BannerAdmob": "ca-app-pub-5574668414249083/4566785993",
+			"InterstitialAdmob": "ca-app-pub-5574668414249083/3012378783",
+			"BannerFacebook": "540714697630892_540715290964166",
+			"InterstitialFacebook": "540714697630892_540716054297423",
+			
+			"unityGameID": "4723330",
+			"UnityPlacement": "Interstitial_Android",
+
+			"StartappAds": "203290733",
+
+			"Cpa": true,
+			"ImageUrl": "https://i.postimg.cc/WbS6b4sH/netflix-intro-netflix.gif",
+			"LinkCpa1": "https://cpbldi.com/911232e",
+			"LinkCpa2": "https://google.com/",
+
+			"watchNow": false,
+			"Rating": true
+
+		}
+
+	},
+	"Huaweistore": {
+
+		"AdsController": {
+
+			"NetworkAds": "admob",
+
+			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
+			"InterstitialAdmob": "ca-app-pub-5574668414249083/3012378783",
+
+			"BannerFacebook": "540714697630892_540715290964166",
+			"InterstitialFacebook": "540714697630892_540715290964166",
+
+			"StartappAds": "203290733",
+
+			"Cpa": true,
+			"ImageUrl": "https://i.postimg.cc/WbS6b4sH/netflix-intro-netflix.gif",
+			"LinkCpa1": "https://cpbldi.com/911232e",
+			"LinkCpa2": "https://google.com/",
+
+			"watchNow": false,
+			"Rating": true
+
+
+		}
+
+	}
+}
